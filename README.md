@@ -13,7 +13,7 @@ Welcome to the Food Delivery Website project! This is a responsive web applicati
 - [License](#license)
 
 ## Demo
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here]([#](https://food-ordering-website-chi.vercel.app/)).
 
 ## Features
 - Responsive design for mobile and desktop
@@ -54,7 +54,7 @@ Welcome to the Food Delivery Website project! This is a responsive web applicati
 - [License](#license)
 
 ## Demo
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here]([#](https://food-ordering-website-chi.vercel.app/)).
 
 ## Features
 - Responsive design for mobile and desktop
